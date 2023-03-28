@@ -1,2 +1,2 @@
-# c
-Practice learning of c language code
+# C Programming
+Practice what I've learned in C language 
