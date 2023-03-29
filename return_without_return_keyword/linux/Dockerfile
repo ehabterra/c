@@ -1,5 +1,5 @@
 FROM gcc:12
-COPY . /usr/src/main
+COPY main.c /usr/src/main/
 WORKDIR /usr/src/main
 RUN gcc -S main.c
 RUN cat main.s

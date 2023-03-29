@@ -2,6 +2,7 @@
     "files.associations": {
         "stdio.h": "c",
         "atomic.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "semaphore.h": "c"
     }
 }

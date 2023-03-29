@@ -8,8 +8,8 @@
 #include <semaphore.h>
 #endif
 
-#define THREAD_NUM 40
-#define SEM_LOCK_NUM 4
+#define THREAD_NUM 11
+#define SEM_LOCK_NUM 5
 
 #ifdef __APPLE__
 dispatch_semaphore_t semaphore;
