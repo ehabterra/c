@@ -3,6 +3,8 @@
         "stdio.h": "c",
         "atomic.h": "c",
         "stdlib.h": "c",
-        "semaphore.h": "c"
+        "semaphore.h": "c",
+        "signal.h": "c",
+        "queue.h": "c"
     }
 }
